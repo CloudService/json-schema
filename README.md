@@ -1,5 +1,5 @@
-JSON Schema is a repository for the JSON Schema specification, reference schemas and a CommonJS implementation of JSON Schema (not the only JavaScript implementation of JSON Schema, JSV is another excellent JavaScript validator).
+This module is forked from https://github.com/kriszyp/json-schema based on commit f56cecb21b176755ad91f58c1ccfa55e5fb93186.
 
-Code is licensed under the AFL or BSD license as part of the Persevere 
-project which is administered under the Dojo foundation,
-and all contributions require a Dojo CLA.
+Some fixes are applied to original source.
+
+ # Assign the default value to the instance.
